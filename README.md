@@ -6,7 +6,7 @@ Mediterranean evolution during and after the Zanclean megaflood, which refilled 
 
 2. Evolving Phase - Computes salt removal and basin evolution of eMed in the flood aftermath
 
-In a sensitivity test, we address a rival hypothesis - Refilling of a almost-filled Mediterranean.
+In a sensitivity test, we address a rival hypothesis - Refilling of an almost-filled Mediterranean.
 
 There are 14 scripts in total (10 for basin refilling & evolution, 1 for post-flood evolution, 3 for the sensitivity test)
 
@@ -15,7 +15,7 @@ Follow this order to completely run the model.
 
 All the data files required to run the scripts (in text format) are provided.
 Apart from hypsometry files, all other data files can be produced while running the scripts.
-Use numpy.savetxt function to save the files if necessary.
+Use numpy.savetxt function given towards the end of each script to save the files if necessary.
 
 Flooding phase is divided into 3 main stages.
 Basin evolution during refilling event is calculated separately for these stages.
