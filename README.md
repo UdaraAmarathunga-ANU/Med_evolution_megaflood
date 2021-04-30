@@ -13,7 +13,7 @@ There are 14 scripts in total (10 for basin refilling & evolution, 1 for post-fl
 These files have been named as Script 1, Script 2,.... Script 14.
 Follow this order to completely run the model.
 
-All the data files required to run the scripts (in text format) are provided.
+All the data files required to run the scripts are provided in Data_files folder (A compressed version also exists - All data files)
 Apart from hypsometry files, all other data files can be produced while running the scripts.
 Use numpy.savetxt function given towards the end of each script to save the files if necessary.
 
