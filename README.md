@@ -1,4 +1,4 @@
-# Zanclean-flooding-Mediterranean-evolution-
+# Mediterranean_evolution_&_Zanclean_megaflood
 Mediterranean evolution during and after the Zanclean megaflood, which refilled the desiccated Mediterranean during Messinian Salinity Crisis (MSC).
 
 ## Two main phases
