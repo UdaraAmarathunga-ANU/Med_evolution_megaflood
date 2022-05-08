@@ -43,7 +43,7 @@ Use Script 12 to produce velocity and flow energy curves for the sensitivity tes
 Use Script 12 to produce curves corresponding to a reconnection of a more-filled Mediterranean.
 Use Script 1 to produce curves for a catastrophic termination (Update initial sill depth and sill width to similar values as in Script 12)
 
-### Supplementary Fig.5 a,c & d
+### Supplementary Fig.1 a,c & d
 For wMed, use Script 1, for eMed, use Script 8.
 ### Supplementary Fig.1 c
 Use Script 6 to obtain eMed inflow water density.
