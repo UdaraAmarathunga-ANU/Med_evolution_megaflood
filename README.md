@@ -5,7 +5,8 @@ Mediterranean evolution during and after the Zanclean megaflood, which refilled 
 
 [![DOI](https://zenodo.org/badge/361373881.svg)](https://zenodo.org/badge/latestdoi/361373881)
 
-
+.. image:: https://zenodo.org/badge/361373881.svg
+   :target: https://zenodo.org/badge/latestdoi/361373881
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
