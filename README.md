@@ -2,10 +2,7 @@
 
 Mediterranean evolution during and after the Zanclean megaflood, which refilled the desiccated Mediterranean during Messinian Salinity Crisis (MSC).
 
-
-
-https://zenodo.org/badge/361373881.svg
-
+### Zenodo
 
 [![DOI](https://zenodo.org/badge/361373881.svg)](https://zenodo.org/badge/latestdoi/361373881)
 
